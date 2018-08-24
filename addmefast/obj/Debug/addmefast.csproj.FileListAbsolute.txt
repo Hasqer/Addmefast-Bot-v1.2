@@ -1,0 +1,14 @@
+c:\users\hasqer\documents\visual studio 2015\Projects\addmefast\addmefast\obj\Debug\addmefast.csprojResolveAssemblyReference.cache
+c:\users\hasqer\documents\visual studio 2015\Projects\addmefast\addmefast\obj\Debug\addmefast.Form1.resources
+c:\users\hasqer\documents\visual studio 2015\Projects\addmefast\addmefast\obj\Debug\addmefast.csproj.GenerateResource.Cache
+c:\users\hasqer\documents\visual studio 2015\Projects\addmefast\addmefast\obj\Debug\Interop.SHDocVw.dll
+c:\users\hasqer\documents\visual studio 2015\Projects\addmefast\addmefast\obj\Debug\addmefast.csproj.ResolveComReference.cache
+c:\users\hasqer\documents\visual studio 2015\Projects\addmefast\addmefast\obj\Debug\addmefast.Form2.resources
+c:\users\hasqer\documents\visual studio 2015\Projects\addmefast\addmefast\obj\Debug\addmefast.Form3.resources
+C:\Users\Hasqer\documents\visual studio 2015\Projects\addmefast\addmefast\obj\Debug\addmefast.Form4.resources
+C:\Users\Hasqer\documents\visual studio 2015\Projects\addmefast\addmefast\bin\Debug\Hasqer - AddMeFast BOT v1.2 - THT.exe.config
+C:\Users\Hasqer\documents\visual studio 2015\Projects\addmefast\addmefast\bin\Debug\Hasqer - AddMeFast BOT v1.2 - THT.exe
+C:\Users\Hasqer\documents\visual studio 2015\Projects\addmefast\addmefast\bin\Debug\Hasqer - AddMeFast BOT v1.2 - THT.pdb
+C:\Users\Hasqer\documents\visual studio 2015\Projects\addmefast\addmefast\obj\Debug\addmefast_hasqer.Properties.Resources.resources
+C:\Users\Hasqer\documents\visual studio 2015\Projects\addmefast\addmefast\obj\Debug\Hasqer - AddMeFast BOT v1.2 - THT.exe
+C:\Users\Hasqer\documents\visual studio 2015\Projects\addmefast\addmefast\obj\Debug\Hasqer - AddMeFast BOT v1.2 - THT.pdb
